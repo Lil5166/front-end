@@ -1,0 +1,36 @@
+body {
+  font-family: Montserrat, sans-serif;
+  margin: 20px;
+}
+
+h2, h3 {
+  color: #333;
+}
+
+p, ul, ol {
+  color: #555;
+}
+
+.bg-color-1 {
+  background-color: #5547bc;
+    color: #00FF00;
+}
+
+.bg-color-2 {
+    background-color: #ff6b6b;
+    color: #40850d;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
